@@ -1,2 +1,2 @@
 # SD2.3_Assignment
-In this assignment, we connect to the supabase postgress db and will create the user API.
+In this assignment, the objective is to establish a connection with the Supabase PostgreSQL database and implement a User API. The API will enable seamless interactions with the database, allowing for operations such as user creation, retrieval, updating, and deletion (CRUD functionality). This demonstrates integration with a cloud-hosted database and the development of backend services for effective data management.
